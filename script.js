@@ -1,5 +1,5 @@
 
-const backendBaseUrl = "https://timetable-backend.onrender.com";
+const backendBaseUrl = "https://your-backend-url.onrender.com";
 
 document.getElementById('upload-form').addEventListener('submit', async (e) => {
     e.preventDefault();
