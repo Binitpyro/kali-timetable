@@ -1,5 +1,5 @@
 
-const backendBaseUrl = "https://your-backend-url.onrender.com";
+const backendBaseUrl = "https://kali-timetable-1.onrender.com";
 
 document.getElementById('upload-form').addEventListener('submit', async (e) => {
     e.preventDefault();
